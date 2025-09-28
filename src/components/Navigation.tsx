@@ -36,7 +36,7 @@ const Navigation = () => {
           <div className="flex items-center gap-4">
             <Button variant="default" size="sm" className="hidden sm:flex">
               <Phone className="w-4 h-4 mr-2" />
-              (555) 123-4567
+              9014455140
             </Button>
             <Button variant="ghost" size="sm" className="md:hidden">
               <Menu className="w-5 h-5" />
