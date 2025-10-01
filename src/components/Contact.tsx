@@ -85,7 +85,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Call Us</h3>
-                    <p className="text-muted-foreground">901445514000</p>
+                    <p className="text-muted-foreground">9014455141</p>
                   </div>
                 </div>
                 
